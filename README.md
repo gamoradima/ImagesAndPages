@@ -5,7 +5,7 @@ In this course we will learn how to start developing on creatio platform by buil
 - [ ] Create Custom Package (GuidedLearning)
     - [ ] Set dependencies
     - [ ] Set description
-
+<br /><br />
 - [ ] Build and configure persistent storage for the expense report with Wizards
     - [ ] ExpenseReport - Root Table
     - [ ] ExpenseReportStatus - (1..1)
@@ -20,7 +20,7 @@ In this course we will learn how to start developing on creatio platform by buil
     - [ ] Implement editable grid control
     - [ ] Subscribe to WebSocket Messages
     - [ ] Subscribe to SanBox messages
-    
+
 - [ ] Review WebSocket messaging mechanism for (Server => Client) communications
 - [ ] Review DataBinding for package bundling
 - [ ] Review CI/CD pipeline
