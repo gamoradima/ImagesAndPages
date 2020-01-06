@@ -3,20 +3,21 @@
 
 In this course we will learn how to start developing on creatio platform by building a simple Expense Report.
 - [ ] Create Custom Package
-- [] Build and configure persistent storage for the expense report with Wizards
-- Attach custom case management and business process with wizards
-- Understand when to develop custom code with C#, build custom EventListener for validation
-- Develop custom WebServices with C# for Client => Server communications
-- Develop custom UI wit JS 
-    - Add button and handle onClick event to execute custom WebServices
-    - Add custom attributes to handle value changes
-    - Implement editable grid control
-    - Subscribe to WebSocket Messages
-    - Subscribe to SanBox messages
-- Review WebSocket messaging mechanism for (Server => Client) communications
+- [ ] Build and configure persistent storage for the expense report with Wizards
+- [ ]Attach custom case management and business process with wizards
+- [ ]Understand when to develop custom code with C#, build custom EventListener for validation
+- [ ]Develop custom WebServices with C# for Client => Server communications
+- [ ]Develop custom UI wit JS 
+    - [ ] Add button and handle onClick event to execute custom WebServices
+    - [ ] Add custom attributes to handle value changes
+    - [ ] Implement editable grid control
+    - [ ] Subscribe to WebSocket Messages
+    - [ ] Subscribe to SanBox messages
+- [ ] Review WebSocket messaging mechanism for (Server => Client) communications
+- [ ] Review DataBinding for package bundling
+- [ ] Review CI/CD pipeline
+- [ ] Create .Net Core console application to perform CRUD operations on the Expense Report
 
-- Review DataBinding for package bundling
-- Review CI/CD pipeline
 
 
 ## Agenda
