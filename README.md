@@ -2,7 +2,7 @@
 # Creatio Guided Learning Jan 21-24, 2020
 
 In this course we will learn how to start developing on creatio platform by building a simple Expense Report.
-- [ ] Create Custom Package
+- [ ] Create Custom Package (GuidedLearning)
 - [ ] Build and configure persistent storage for the expense report with Wizards
 - [ ]Attach custom case management and business process with wizards
 - [ ]Understand when to develop custom code with C#, build custom EventListener for validation
