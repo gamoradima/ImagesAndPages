@@ -5,7 +5,8 @@
 - Configure NLog
 - Set first breakpoint and make log entry
 
-### Convert Creatio to development in **FileSystem Mode**. 
+### Convert Creatio to development in **FileSystem Mode**.
+ 
 | --- | --- |
 |To enable development in the file system, edit Web.config file (located in the root folder with the installed application) and set the enabled attribute of the fileDesignMode element to true. (Update [AppPath]\web.config)|![Web.config](../Img/LocateWebConfig.png)|
 
