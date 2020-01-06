@@ -1,4 +1,5 @@
-## Agenda
+[![Logo](https://www.creatio.com/sites/default/files/2019-10/creatio-main-logo.svg)](https://github.com/sindresorhus/awesome#readme)
+## Agenda (Day 1 - Jan 21, 2020)
 - Convert Creatio to development in FileSystem Mode
 - Configure Clio (restore NuGet packages)
 - Configure NLog
