@@ -1,6 +1,12 @@
 [![Logo](https://www.creatio.com/sites/default/files/2019-10/creatio-main-logo.svg)](https://github.com/sindresorhus/awesome#readme)
 # Creatio Guided Learning Jan 21-24, 2020
 
+## Agenda
+- [Day 1](Agenda/DAY1_AGENDA.md)
+- [Day 2](Agenda/DAY2_AGENDA.md)
+- [Day 3](Agenda/DAY3_AGENDA.md)
+- [Day 4](Agenda/DAY4_AGENDA.md)
+
 
 
 ## Instructor
