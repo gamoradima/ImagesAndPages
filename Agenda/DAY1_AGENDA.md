@@ -6,7 +6,7 @@
 - Set first breakpoint and make log entry
 
 ### Convert Creatio to development in **FileSystem Mode**. 
-- Update [AppPath]\web.config file
+- To enable development in the file system, edit Web.config file (located in the root folder with the installed application) and set the enabled attribute of the fileDesignMode element to true. (Update [AppPath]\web.config)
 ```xml
 <fileDesignMode enabled="true"/>
 <add key="UseStaticFileContent" value="false" />
