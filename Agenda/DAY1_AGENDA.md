@@ -3,7 +3,7 @@
 - Convert Creatio to development in FileSystem Mode
 - Configure Clio (restore NuGet packages)
 - Configure NLog
-- Set first Breakpoint and make log entry
+- Set first breakpoint and make log entry
 
 ### Convert Creatio to development in FileSystem Mode. 
 - Update [AppPath]\web.config file
@@ -14,7 +14,7 @@
 - Download packages to file system <br/>
 ![Download Packages To FileSystem](../Img/confguration_buttons.png)
 
-- Enable Debugging mode for client side source code. Change SystemSetting Debug mode (code: IsDebug) to true<br/>
+- **Enable Debugging mode** for client side source code. Change SystemSetting Debug mode (code: IsDebug) to true<br/>
 ![EnableDebug](../Img/EnableDebug.png)
 ![IsDebug](../Img/IsDebug.png)
 - [Academy Article](https://academy.creatio.com/documents/technic-sdk/7-15/introduction-9) - Enable File System Mode
