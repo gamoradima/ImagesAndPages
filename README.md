@@ -11,9 +11,7 @@
 
 ## Instructor
 <a href="mailto:k.krylov@creatio.com?subject=Guided%20Learning%20Jan21%2017-24,%202020">Kirill Krylov, CPA</a><br />
-Direct Line: +1(617)765-7997 x.2134
-<br />
-<a href="https://www.linkedin.com/in/kirill-krylov-cpa/"><img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/01-dsk-e8-v2.png.original.png" width="50"></a>
+<a href="https://www.linkedin.com/in/kirill-krylov-cpa/"><img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/01-dsk-e8-v2.png.original.png" width="70"></a>
 
 
 ## Video Recordings
