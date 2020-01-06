@@ -16,7 +16,7 @@
 
 
 
-## **Download packages** to file system <br/>
+## Download packages to file system <br/>
 ![Download Packages To FileSystem](../Img/confguration_buttons.png)
 
 - **Enable Debugging mode** for client side source code. Change SystemSetting Debug mode (code: IsDebug) to true<br/>
