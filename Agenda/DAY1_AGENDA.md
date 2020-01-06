@@ -1,27 +1,9 @@
 [![Logo](https://www.creatio.com/sites/default/files/2019-10/creatio-main-logo.svg)](https://github.com/sindresorhus/awesome#readme)
 # Agenda (Day 1 - Jan 21, 2020)
 - [Convert Creatio to development in FileSystem Mode](https://github.com/kirillkrylov/ImagesAndPages/wiki/Enable-development-in-FileSystem-Mode)
-- Configure Clio (restore NuGet packages)
+- [Configure Clio](https://github.com/Advance-Technologies-Foundation/clio/blob/master/README.md)
 - [Configure NLog](https://github.com/kirillkrylov/ImagesAndPages/wiki/Custom-Logging-with-NLog)
 - Set first breakpoint and make log entry
-
-
-## Configure Custom Logging with NLog
-To Configure custom logging **update nlog.config** and **nlog.targets.config**. Both files are located in [AppPath]\Terrasoft.WebApp
-
-Add the following to **nlog.config** file:
-```xml
-<logger name="GuidedLearningLogger" writeTo="GuidedLearningAppender" 
-    minlevel="Info" final="true" />
-```
-
-Add the following to the **nlog.target.config** file
-```xml
-<target name="GuidedLearningAppender" xsi:type="File"
-	layout="${Date} [${ThreadIdOrName}] ${uppercase:${level}} ${UserName} ${MethodName} - ${Message}"
-	fileName="${LogDir}/${LogDay}/GuidedLearning.log" />
-```
-- [Logging](https://academy.creatio.com/documents/technic-sdk/7-15/logging-creatio-nlog) - Logging
 
 ## Set First Break Point
 - Add reference to Common.Logging, you can take necessary files from [AppPath]\bin directory.
@@ -39,7 +21,7 @@ namespace GuidedLearningClio.Files.cs.el
     /// </summary>
     /// <seealso cref="Terrasoft.Core.Entities.Events.BaseEntityEventListener" />
     [EntityEventListener(SchemaName = "Contact")]
-    class EntityNameEventListener : BaseEntityEventListener
+    class ContactEventListener : BaseEntityEventListener
     {
         private static readonly ILog _log = LogManager.GetLogger("GuidedLearningLogger");
         public override void OnSaved(object sender, EntityAfterEventArgs e)
@@ -53,6 +35,7 @@ namespace GuidedLearningClio.Files.cs.el
         }
     }
 }
+
 ```
 - Build your project / solution and use clio to restart the app
 ```text
