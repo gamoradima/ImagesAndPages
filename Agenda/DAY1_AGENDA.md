@@ -9,10 +9,12 @@
 
 |Description|Screenshot|
 |:---|:----:|
-|To enable development in the file system, edit Web.config file (located in the root folder with the installed application) and set the enabled attribute of the fileDesignMode element to true.<br /><br />**(Update [AppPath]\web.config)** ```xml
+|To enable development in the file system, edit Web.config file (located in the root folder with the installed application) and set the enabled attribute of the fileDesignMode element to true.<br /><br />**(Update [AppPath]\web.config)** <br /><br />
+```xml
 <fileDesignMode enabled="true"/>
 <add key="UseStaticFileContent" value="false" />
-```|![Web.config](../Img/LocateWebConfig.png)|
+```
+|![Web.config](../Img/LocateWebConfig.png)|
 
 ```xml
 <fileDesignMode enabled="true"/>
