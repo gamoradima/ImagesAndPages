@@ -5,13 +5,13 @@
 - Configure NLog
 - Set first breakpoint and make log entry
 
-### Convert Creatio to development in FileSystem Mode. 
+### Convert Creatio to development in **FileSystem Mode**. 
 - Update [AppPath]\web.config file
 ```xml
 <fileDesignMode enabled="true"/>
 <add key="UseStaticFileContent" value="false" />
 ```
-- Download packages to file system <br/>
+- **Download packages** to file system <br/>
 ![Download Packages To FileSystem](../Img/confguration_buttons.png)
 
 - **Enable Debugging mode** for client side source code. Change SystemSetting Debug mode (code: IsDebug) to true<br/>
