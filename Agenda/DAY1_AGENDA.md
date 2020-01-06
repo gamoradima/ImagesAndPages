@@ -8,8 +8,8 @@
 ### Convert Creatio to development in **FileSystem Mode**.
 
 |Description|Screenshot|
-|---|----|
-|To enable development in the file system, edit Web.config file (located in the root folder with the installed application) and set the enabled attribute of the fileDesignMode element to true. <br />**(Update [AppPath]\web.config)**|![Web.config](../Img/LocateWebConfig.png)|
+|:---|:----:|
+|To enable development in the file system, edit Web.config file (located in the root folder with the installed application) and set the enabled attribute of the fileDesignMode element to true.<br /><br />**(Update [AppPath]\web.config)**|![Web.config](../Img/LocateWebConfig.png)|
 
 ```xml
 <fileDesignMode enabled="true"/>
