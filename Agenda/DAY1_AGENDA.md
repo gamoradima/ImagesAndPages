@@ -2,7 +2,7 @@
 # Agenda (Day 1 - Jan 21, 2020)
 - [Convert Creatio to development in FileSystem Mode](https://github.com/kirillkrylov/ImagesAndPages/wiki/Enable-development-in-FileSystem-Mode)
 - Configure Clio (restore NuGet packages)
-- Configure NLog
+- [Configure NLog](https://github.com/kirillkrylov/ImagesAndPages/wiki/Custom-Logging-with-NLog)
 - Set first breakpoint and make log entry
 
 
@@ -11,7 +11,8 @@ To Configure custom logging **update nlog.config** and **nlog.targets.config**. 
 
 Add the following to **nlog.config** file:
 ```xml
-<logger name="GuidedLearningLogger" writeTo="GuidedLearningAppender" minlevel="Info" final="true" />
+<logger name="GuidedLearningLogger" writeTo="GuidedLearningAppender" 
+    minlevel="Info" final="true" />
 ```
 
 Add the following to the **nlog.target.config** file
