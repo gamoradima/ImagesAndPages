@@ -2,9 +2,9 @@
 # Creatio Guided Learning Jan 21-24, 2020
 
 In this course we will learn how to start developing on creatio platform by building a simple Expense Report.
-- [ ] Create Custom Package (GuidedLearning)
-    - [ ] Set dependencies
-    - [ ] Set description
+- [1] Create Custom Package (GuidedLearning)
+    - [ 1.a ] Set dependencies
+    - [1.b] Set description
 <br /><br />
 - [ ] Build and configure persistent storage for the expense report with Wizards
     - [ ] ExpenseReport - Root Table
