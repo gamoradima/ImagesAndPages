@@ -1,5 +1,5 @@
 [![Logo](https://www.creatio.com/sites/default/files/2019-10/creatio-main-logo.svg)](https://github.com/sindresorhus/awesome#readme)
-# Creatio Guided Learning Dec 17-20, 2019  
+# Creatio Guided Learning Jan 21-24, 2020
 This is a training project for the Guided Learning class of Dec 17-20, 2019
 
 ## Agenda
