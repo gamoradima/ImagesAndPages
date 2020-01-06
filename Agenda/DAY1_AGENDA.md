@@ -1,5 +1,5 @@
 [![Logo](https://www.creatio.com/sites/default/files/2019-10/creatio-main-logo.svg)](https://github.com/sindresorhus/awesome#readme)
-# Agenda (Day 1 - Jan 21, 2020)
+# Agenda (Day 1)
 - [Convert Creatio to development in FileSystem Mode](https://github.com/kirillkrylov/ImagesAndPages/wiki/Enable-development-in-FileSystem-Mode)
 - [Configure Clio](https://github.com/Advance-Technologies-Foundation/clio/blob/master/README.md)
 - [Configure NLog](https://github.com/kirillkrylov/ImagesAndPages/wiki/Custom-Logging-with-NLog)
