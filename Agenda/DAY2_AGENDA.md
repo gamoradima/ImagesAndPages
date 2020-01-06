@@ -17,7 +17,3 @@
 - [Creatio](https://academy.creatio.com/documents/technic-sdk/7-15/creatio-development-guide) - Creatio Development Guide
 - [Clio](https://github.com/Advance-Technologies-Foundation/clio/blob/master/README.md) - Clio
 - [eLearning](https://academy.creatio.com/training) - On line courses
-
-## Instructor
-<a href="mailto:k.krylov@creatio.com?subject=Guided%20Learning%20Dec%2017-20,%202019">Kirill Krylov, CPA</a><br />
-Direct Line: +1(617)765-7997 x.2134
