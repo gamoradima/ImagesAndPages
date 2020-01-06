@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style type="text/css">
+        #widget-container {
+            width: 300px;
+        }
+        .title{
+            vertical-align: middle;  
+        }
+        .title .content{
+            float: right;
+            font-family: verdana;
+            font-weight: bold;
+            font-size: 20px;
+            line-height: 20px;
+            letter-spacing: 1px;
+            color: #444444;
+        }
+        .footer a {
+            padding: 7px 12px ;
+            color: #fff;
+            background: #006CE0;
+            text-align: left;
+            font-family: verdana;
+            font-size: 14px;
+            line-height: 20px;
+            letter-spacing: 0.27px;
+            text-transform: uppercase;
+            opacity: 1;
+            text-decoration: none;
+        }
+        .footer a:visited,
+        .footer a:active,
+        .footer a:hover {
+            color: #fff;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+<input type="hidden" value="UA" id="ip-address">
+    <div id="widget-container" class="UA">
+        <div class="title">
+            <img src="https://www.bpmonline.com/page/modules/custom/ts_creatio_widget/img/symbols_for_text.svg" alt="logo" title="Creatio" />
+            <span class="content">Kirill Krylov, CPA</span>
+        </div>
+            <div class="content">
+                <p>
+                    <img src="https://avatars2.githubusercontent.com/u/7285114?s=460&v=4" width="100%"/>
+                </p>
+            </div>
+        <div class="footer">
+            <a href="https://github.com/kirillkrylov" target="_blank">GitHub</a>
+            <a href="https://www.linkedin.com/in/kirill-krylov-cpa/" target="_blank">LinkedIn</a>
+            <a href="https://www.nuget.org/profiles/KirillKrylov" target="_blank">NuGet</a>
+        </div>
+    </div>
+</body>
+</html>
