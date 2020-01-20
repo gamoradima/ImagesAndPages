@@ -49,7 +49,7 @@ Please note that the recording files will be deleted 20 days after the day of th
 
 ## Prerequisites
 - [Local Instance](https://drive.google.com/drive/folders/1voxaCcUM43_RXcptmFF8GRjxoLb-IP96?usp=sharing)
-- [Clio]()
+- [Creatio Repository](https://github.com/kirillkrylov/ImagesAndPages/wiki/Creatio-NuGet-Repository)
 - [Creatio SDK Private Repository](https://ts1-infr-nexus.bpmonline.com:8443/repository/developer-sdk)
 
 
