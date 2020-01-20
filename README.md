@@ -46,6 +46,14 @@ Please note that the recording files will be deleted 20 days after the day of th
 - [Day 3](https://api.zoom.us/recording/play/IrsTr7Wo5wlmIdVmfh5zlKJeRfAxyTis4dXQlxFbJa0sxngr3GsCsszCeKpL3Doj)
 - [Day 4](https://api.zoom.us/recording/play/v486p7GToZfMTgHfBAfQFZF4XHRqJLfJhBHMe8uyhPQl35HMrSIIM3fIUS5F14P7)
 
+
+## Prerequisites
+- [Local Instance](https://drive.google.com/drive/folders/1voxaCcUM43_RXcptmFF8GRjxoLb-IP96?usp=sharing)
+- [Clio]()
+- [Creatio SDK Private Repository](https://ts1-infr-nexus.bpmonline.com:8443/repository/developer-sdk)
+
+
+
 ## eLearning Resources
 [Creatio administration and configuration](https://academy.creatio.com/online-courses/creatio-administration-and-configuration-0)<br/>
 [Business processes management in Creatio](https://academy.creatio.com/online-courses/business-processes-management-creatio)<br/>
