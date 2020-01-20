@@ -1,5 +1,5 @@
 [![Logo](https://www.creatio.com/sites/default/files/2019-10/creatio-main-logo.svg)](https://github.com/sindresorhus/awesome#readme)
-# Creatio Guided Learning Jan 21-24, 2020
+# Creatio Development Guided Learning with Kirill Krylov
 
 In this course you will learn how to start developing on creatio platform by building a simple Expense Report application.
 - [ ] Create Custom Package (GuidedLearning)
