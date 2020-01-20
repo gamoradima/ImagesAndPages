@@ -47,6 +47,6 @@ Please note that the recording files will be deleted 20 days after the day of th
 - [Day 4](https://api.zoom.us/recording/play/v486p7GToZfMTgHfBAfQFZF4XHRqJLfJhBHMe8uyhPQl35HMrSIIM3fIUS5F14P7)
 
 ## eLearning Resources
-[Creatio administration and configuration](https://academy.creatio.com/online-courses/creatio-administration-and-configuration-0)
-[Business processes management in Creatio](https://academy.creatio.com/online-courses/business-processes-management-creatio)
-[Development on Creatio platform](https://academy.creatio.com/online-courses/development-creatio-platform-0)
+[Creatio administration and configuration](https://academy.creatio.com/online-courses/creatio-administration-and-configuration-0)<br/>
+[Business processes management in Creatio](https://academy.creatio.com/online-courses/business-processes-management-creatio)<br/>
+[Development on Creatio platform](https://academy.creatio.com/online-courses/development-creatio-platform-0)<br/>
