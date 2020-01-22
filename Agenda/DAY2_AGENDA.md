@@ -4,7 +4,9 @@
 - [Event SubProcess](https://academy.creatio.com/documents/technic-bpms/7-15/event-sub-process-element) Entity Events
 - [BaseService](https://academy.creatio.com/documents/technic-sdk/7-15/creating-configuration-service) Configuration WebSerice
 - [Select](https://academy.creatio.com/documents/technic-sdk/7-15/ad-hoc-db-queries) Ad-Hoc queries
-- [Esq](https://academy.creatio.com/documents/technic-sdk/7-15/working-database-entity-entity-class) Entity Schema Query 
+- [Esq](https://academy.creatio.com/documents/technic-sdk/7-15/working-database-entity-entity-class) Entity Schema Query
+- [WebSocket](https://github.com/kirillkrylov/ImagesAndPages/wiki/Web-Socket-Messages-with-MsgChannelUtilities) WebSocket with MsgChannelUtilities
+
 
 - Create event listener that will detect and handle overlapping activities with Entity Event Layer
 - [AutoNumbering](https://academy.creatio.com/documents/technic-sdk/7-15/how-add-auto-numbering-edit-page-field) Create event listener based on Event-SubProcess
