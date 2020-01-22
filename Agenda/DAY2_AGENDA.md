@@ -13,7 +13,7 @@
 
 ## Tools
 - [Clio](https://github.com/Advance-Technologies-Foundation/clio) - CLI Library to create packages.
-- [Bpmonline.SDK](https://www.nuget.org/packages/BpmonlineSDK/) - Provides project template for development code for bpm'online platform.
+- [CreatioSDK](https://github.com/kirillkrylov/ImagesAndPages/wiki/Creatio-NuGet-Repository) - Necessary libraries
 
 ## Documentation
 - [Creatio](https://academy.creatio.com/documents/technic-sdk/7-15/creatio-development-guide) - Creatio Development Guide
