@@ -52,7 +52,6 @@ Please note that the recording files will be deleted 20 days after the day of th
 - [Creatio Repository](https://github.com/kirillkrylov/ImagesAndPages/wiki/Creatio-NuGet-Repository)
 
 
-
 ## eLearning Resources
 [Creatio administration and configuration](https://academy.creatio.com/online-courses/creatio-administration-and-configuration-0)<br/>
 [Business processes management in Creatio](https://academy.creatio.com/online-courses/business-processes-management-creatio)<br/>
