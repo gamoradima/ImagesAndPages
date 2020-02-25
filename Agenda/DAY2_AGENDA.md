@@ -6,6 +6,7 @@
 - [Select](https://academy.creatio.com/documents/technic-sdk/7-15/ad-hoc-db-queries) Ad-Hoc queries
 - [Esq](https://academy.creatio.com/documents/technic-sdk/7-15/working-database-entity-entity-class) Entity Schema Query
 - [WebSocket](https://github.com/kirillkrylov/ImagesAndPages/wiki/Web-Socket-Messages-with-MsgChannelUtilities) WebSocket with MsgChannelUtilities
+- [DefaultBinding](AppEventListenerBase / IAppEventListener)
 
 
 - Create event listener that will detect and handle overlapping activities with Entity Event Layer
