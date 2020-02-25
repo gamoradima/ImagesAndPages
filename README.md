@@ -5,22 +5,32 @@ In this course you will learn how to start developing on creatio platform by bui
 - [ ] Create Custom Package (GuidedLearning)
     - [ ] Set dependencies
     - [ ] Set description
+
 - [ ] Build and configure persistent storage for the expense report with Wizards
-    - [ ] ExpenseReport - Root Table
+    - [ ] ExpenseReport - Root(Section) Table
     - [ ] ExpenseReportStatus - (1..1)
     - [ ] ExpenseReportDetails  (1..*)
+
 - [ ] Attach custom case management and business process with wizards
 - [ ] Understand when to develop custom code with C#, build custom EventListener for validation
+
+- [ ] Server side development (C#) - Terrasoft.Configuration
+- [ ] Server side development (C#) - Clio
+- [ ] Logging with NLog
 - [ ] Develop custom WebServices with C# for Client => Server communications
+
 - [ ] Develop custom UI wit JS 
     - [ ] Add button and handle onClick event to execute custom WebServices
     - [ ] Add custom attributes to handle value changes
     - [ ] Implement editable grid control
     - [ ] Subscribe to WebSocket Messages
     - [ ] Subscribe to SanBox messages
+    - [ ] JS Intermodule messaging with Sandbox
+
 - [ ] Review WebSocket messaging mechanism for (Server => Client) communications
     - [ ] Send WebSocket message from the backend with C#
     - [ ] Subscribe to WebSocket messages in UI with JavaScript
+
 - [ ] Review DataBinding for package bundling
 - [ ] Review CI/CD pipeline
 - [ ] Install GuidedLearning Package on an inCloud instance of Creatio with help of Clio
@@ -41,15 +51,18 @@ In this course you will learn how to start developing on creatio platform by bui
 
 ## Video Recordings
 Please note that the recording files will be deleted 20 days after the day of the recording.
-- [Day 1](https://api.zoom.us/recording/play/glcXJhmUpI0t2sQ-0IHPYWZcra2yXKqnyg6j2etJ5LHL71xpipGmebR-uUKD1nyK)
-- [Day 2](https://api.zoom.us/recording/play/acDymnDuEK1NJUtpGS0epO2rpK9aahbNjO_cJc_6ItMtnwUtWm3cFtPkDWb_DMOW)
-- [Day 3](https://api.zoom.us/recording/play/IrsTr7Wo5wlmIdVmfh5zlKJeRfAxyTis4dXQlxFbJa0sxngr3GsCsszCeKpL3Doj)
-- [Day 4](https://api.zoom.us/recording/play/v486p7GToZfMTgHfBAfQFZF4XHRqJLfJhBHMe8uyhPQl35HMrSIIM3fIUS5F14P7)
+- [Day 1]()
+- [Day 2]()
+- [Day 3]()
+- [Day 4]()
 
 
 ## Prerequisites
 - [Local Instance](https://drive.google.com/drive/folders/1voxaCcUM43_RXcptmFF8GRjxoLb-IP96?usp=sharing)
+- [Clio](https://github.com/Advance-Technologies-Foundation/clio/blob/master/README.md)
+
 - [Creatio Repository](https://github.com/kirillkrylov/ImagesAndPages/wiki/Creatio-NuGet-Repository)
+- [Creatio Repository Public NuGet](https://www.nuget.org/packages/CreatioSDK/)
 
 
 ## eLearning Resources
