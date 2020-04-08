@@ -1,12 +1,12 @@
 [![Logo](https://www.creatio.com/sites/default/files/2019-10/creatio-main-logo.svg)](https://github.com/sindresorhus/awesome#readme)
 # Creatio Development with Kirill Krylov, CPA  
 In this course you will learn how to start developing on creatio platform by expanding upon a simple Expense Report application. It is expected that you are familiar with: 
- * Section Wizard 
- * Detail Wizard,
- * Business Processes,
- * Case management,
- * Understand Filters and Folders
- * Lookups and System Settings
+* [Entity Object Model](https://academy.creatio.com/online-courses/creatio-object-data-model)
+* [Section Wizard and Detail Wizard](https://academy.creatio.com/online-courses/section-wizard)
+* [Business Processes](https://academy.creatio.com/online-courses/business-processes-management-creatio),
+* [Case management](https://academy.creatio.com/online-courses/how-set-cases-dcm),
+* [Understand Filters and Folders](https://academy.creatio.com/online-courses/video-courses-10)
+* [System Settings and Lookup](https://academy.creatio.com/online-courses/system-settings-lookups)
 
 ## Topics
 <details>
