@@ -68,26 +68,6 @@ In this course you will learn how to start developing on creatio platform by bui
 
 </details>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-v
-
-
-
-- [ ] Review WebSocket messaging mechanism for (Server => Client) communications
-    - [ ] Send WebSocket message from the backend with C#
-    - [ ] Subscribe to WebSocket messages in UI with JavaScript
-
-
-
-
-
 ## Agenda
 - [Day 1](Agenda/DAY1_AGENDA.md)
 - [Day 2](Agenda/DAY2_AGENDA.md)
