@@ -24,7 +24,7 @@ using Terrasoft.Core.Entities.Events;
 namespace GuidedLearningClio.Files.cs.el
 {
     /// <summary>
-    /// Listener for 'EntityName' entity events.
+    /// Listener for 'Contact' entity events.
     /// </summary>
     /// <seealso cref="Terrasoft.Core.Entities.Events.BaseEntityEventListener" />
     [EntityEventListener(SchemaName = "Contact")]
