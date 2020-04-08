@@ -1,5 +1,5 @@
 [![Logo](https://www.creatio.com/sites/default/files/2019-10/creatio-main-logo.svg)](https://github.com/sindresorhus/awesome#readme)
-# Creatio Development with Kirill Krylov, CPA ![avatar](![Result](https://github.com/kirillkrylov/ImagesAndPages/blob/master/Img/kirill.jpg))
+# Creatio Development with Kirill Krylov, CPA (![Result](https://github.com/kirillkrylov/ImagesAndPages/blob/master/Img/kirill.jpg))
 
 In this course you will learn how to start developing on creatio platform by building a simple Expense Report application.
 - [ ] Create Custom Package (GuidedLearning)
