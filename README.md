@@ -10,14 +10,14 @@ In this course you will learn how to start developing on creatio platform by exp
 
 ## Topics
 <details>
-  <summary> ## Server Side (C#)</summary>
+  <summary>Server Side (C#)</summary>
 
   ## Server Side (C#)
-- [ ] Server side development (C#) - Terrasoft.Configuration
-- [ ] Server side development (C#) - Clio
-- [ ] Logging with NLog
-- [ ] Develop custom WebServices with C# for Client => Server communications
-- [ ] Send WebSocket message from the backend with C# and business process
+  - [ ] Server side development (C#) - Terrasoft.Configuration
+  - [ ] Server side development (C#) - Clio
+  - [ ] Logging with NLog
+  - [ ] Develop custom WebServices with C# for Client => Server communications
+  - [ ] Send WebSocket message from the backend with C# and business process
 </details>
 
 
