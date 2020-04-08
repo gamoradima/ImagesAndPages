@@ -45,13 +45,13 @@ In this course you will learn how to start developing on creatio platform by bui
   <summary>Other</summary>
 
   ## Other
-  - [ ] Create Custom Package (GuidedLearning)
-    - [ ] Set dependencies
-    - [ ] Set description
-  - [ ] Build and configure persistent storage for the expense report with Wizards
-    - [ ] ExpenseReport - Root(Section) Table
-    - [ ] ExpenseReportStatus - (1..1)
-    - [ ] ExpenseReportDetails  (1..*)
+- [ ] Create Custom Package (GuidedLearning)
+  - [ ] Set dependencies
+  - [ ] Set description
+- [ ] Build and configure persistent storage for the expense report with Wizards
+  - [ ] ExpenseReport - Root(Section) Table
+  - [ ] ExpenseReportStatus - (1..1)
+  - [ ] ExpenseReportDetails  (1..*)
 </details>
 
 
