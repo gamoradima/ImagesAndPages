@@ -17,8 +17,7 @@
 
 ## Set First Break Point
 - Add reference to Common.Logging, you can take necessary files from _**[AppPath]\bin**_ directory.
-- Create new ContactEventListener Class and set a breakpoint anywhere inside onSaved method.
-  <details>
+- <details>
     <summary>Create new ContactEventListener Class and set a breakpoint anywhere inside onSaved method.</summary>
 
     ```C#
