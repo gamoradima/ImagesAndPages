@@ -82,11 +82,10 @@ In this course you will learn how to start developing on creatio platform by bui
 <img src="https://github.com/kirillkrylov/ImagesAndPages/blob/master/Img/kirill.jpg" width="70">
 
 ## Prerequisites
-- [Local Instance](https://drive.google.com/drive/folders/1voxaCcUM43_RXcptmFF8GRjxoLb-IP96?usp=sharing)
-- [Clio](https://github.com/Advance-Technologies-Foundation/clio/blob/master/README.md)
-
-- [Creatio Repository](https://github.com/kirillkrylov/ImagesAndPages/wiki/Creatio-NuGet-Repository)
-- [Creatio Repository Public NuGet](https://www.nuget.org/packages/CreatioSDK/)
+- [Local Instance](https://drive.google.com/drive/folders/1voxaCcUM43_RXcptmFF8GRjxoLb-IP96?usp=sharing)<br/>
+- [Clio](https://github.com/Advance-Technologies-Foundation/clio/blob/master/README.md)<br/>
+- [Creatio Repository](https://github.com/kirillkrylov/ImagesAndPages/wiki/Creatio-NuGet-Repository)<br/>
+- [Creatio Repository Public NuGet](https://www.nuget.org/packages/CreatioSDK/)<br/>
 
 
 ## eLearning Resources
