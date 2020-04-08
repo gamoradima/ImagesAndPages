@@ -1,6 +1,12 @@
 [![Logo](https://www.creatio.com/sites/default/files/2019-10/creatio-main-logo.svg)](https://github.com/sindresorhus/awesome#readme)
 # Creatio Development with Kirill Krylov, CPA  
-In this course you will learn how to start developing on creatio platform by building a simple Expense Report application.
+In this course you will learn how to start developing on creatio platform by expanding upon a simple Expense Report application. It is expected that you are familiar with: 
+ * Section Wizard 
+ * Detail Wizard,
+ * Business Processes,
+ * Case management,
+ * Understand Filters and Folders
+ * Lookups and System Settings
 
 ## Topics
 <details>
