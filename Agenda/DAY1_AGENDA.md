@@ -13,7 +13,7 @@
 - Set first breakpoint and make log entry
 
 ## Set First Break Point
-- Add reference to Common.Logging, you can take necessary files from _*[AppPath]\bin*_ directory.
+- Add reference to Common.Logging, you can take necessary files from _**[AppPath]\bin**_ directory.
 - Create EntityNameEventListener Class and set a breakpoint anywhere inside onSaved method.
 ```C#
 using global::Common.Logging;
