@@ -14,7 +14,10 @@
 
 ## Set First Break Point
 - Add reference to Common.Logging, you can take necessary files from _**[AppPath]\bin**_ directory.
-- Create EntityNameEventListener Class and set a breakpoint anywhere inside onSaved method.
+- Create new ContactEventListener Class and set a breakpoint anywhere inside onSaved method.
+- Attach to w3wp.exe process
+- Rebuild
+
 ```C#
 using global::Common.Logging;
 using Terrasoft.Core;
