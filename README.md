@@ -21,7 +21,7 @@ In this course you will learn how to start developing on creatio platform by exp
   - [ ] WebSocket messages from the backend with C#
   - [ ] Application Events 
   - [ ] ClassFactory (declarative binding)
-  - [ ] Application Event Listener (public class myClass : AppEventListenerBase) 
+  - [ ] Application Event Listener  (AppEventListenerBase or IAppEventListener)
 </details>
 
 
