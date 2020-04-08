@@ -16,8 +16,12 @@ In this course you will learn how to start developing on creatio platform by exp
   - [ ] Server side development (C#) - Terrasoft.Configuration
   - [ ] Server side development (C#) - Clio
   - [ ] Logging with NLog
-  - [ ] Develop custom WebServices with C# for Client => Server communications
-  - [ ] Send WebSocket message from the backend with C# and business process
+  - [ ] Custom Configuration WebServices with C#
+  - [ ] Anonymous Custom Configuration WebServices with C#
+  - [ ] WebSocket messages from the backend with C#
+  - [ ] Application Events 
+  - [ ] ClassFactory (declarative binding)
+  - [ ] Application Event Listener (public class myClass : AppEventListenerBase) 
 </details>
 
 
@@ -71,7 +75,7 @@ In this course you will learn how to start developing on creatio platform by exp
 - [ ] Review WebSocket messaging mechanism for (Server => Client) communications
     - [ ] Send WebSocket message from the backend with C#
     - [ ] Subscribe to WebSocket messages in UI with JavaScript
-
+- [ ] Create Custom Feature Toggles
 </details>
 
 ## Agenda
