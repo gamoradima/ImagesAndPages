@@ -81,14 +81,6 @@ In this course you will learn how to start developing on creatio platform by bui
 </a><br />
 <img src="https://github.com/kirillkrylov/ImagesAndPages/blob/master/Img/kirill.jpg" width="70">
 
-## Video Recordings
-Please note that the recording files will be deleted 20 days after the day of the recording.
-- [Day 1]()
-- [Day 2]()
-- [Day 3]()
-- [Day 4]()
-
-
 ## Prerequisites
 - [Local Instance](https://drive.google.com/drive/folders/1voxaCcUM43_RXcptmFF8GRjxoLb-IP96?usp=sharing)
 - [Clio](https://github.com/Advance-Technologies-Foundation/clio/blob/master/README.md)
@@ -98,6 +90,6 @@ Please note that the recording files will be deleted 20 days after the day of th
 
 
 ## eLearning Resources
-[Creatio administration and configuration](https://academy.creatio.com/online-courses/creatio-administration-and-configuration-0)<br/>
-[Business processes management in Creatio](https://academy.creatio.com/online-courses/business-processes-management-creatio)<br/>
-[Development on Creatio platform](https://academy.creatio.com/online-courses/development-creatio-platform-0)<br/>
+- [Creatio administration and configuration](https://academy.creatio.com/online-courses/creatio-administration-and-configuration-0)<br/>
+- [Business processes management in Creatio](https://academy.creatio.com/online-courses/business-processes-management-creatio)<br/>
+- [Development on Creatio platform](https://academy.creatio.com/online-courses/development-creatio-platform-0)<br/>
