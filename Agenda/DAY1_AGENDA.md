@@ -19,37 +19,37 @@
 - Add reference to Common.Logging, you can take necessary files from _**[AppPath]\bin**_ directory.
 - Create new ContactEventListener Class and set a breakpoint anywhere inside onSaved method.
 - <details>
-  <summary>Create new ContactEventListener Class and set a breakpoint anywhere inside onSaved method.</summary>
+    <summary>Create new ContactEventListener Class and set a breakpoint anywhere inside onSaved method.</summary>
 
-```C#
-    using global::Common.Logging;
-    using Terrasoft.Core;
-    using Terrasoft.Core.Entities;
-    using Terrasoft.Core.Entities.Events;
+    ```C#
+        using global::Common.Logging;
+        using Terrasoft.Core;
+        using Terrasoft.Core.Entities;
+        using Terrasoft.Core.Entities.Events;
 
-    namespace GuidedLearningClio.Files.cs.el
-    {
-        /// <summary>
-        /// Listener for 'Contact' entity events.
-        /// </summary>
-        /// <seealso cref="Terrasoft.Core.Entities.Events.BaseEntityEventListener" />
-        [EntityEventListener(SchemaName = "Contact")]
-        class ContactEventListener : BaseEntityEventListener
+        namespace GuidedLearningClio.Files.cs.el
         {
-            private static readonly ILog _log = LogManager.GetLogger("GuidedLearningLogger");
-            public override void OnSaved(object sender, EntityAfterEventArgs e)
+            /// <summary>
+            /// Listener for 'Contact' entity events.
+            /// </summary>
+            /// <seealso cref="Terrasoft.Core.Entities.Events.BaseEntityEventListener" />
+            [EntityEventListener(SchemaName = "Contact")]
+            class ContactEventListener : BaseEntityEventListener
             {
-                base.OnSaved(sender, e);
-                Entity entity = (Entity)sender;
-                UserConnection userConnection = entity.UserConnection;
-                
-                string message = $"Changing name for {entity.GetTypedColumnValue<string>("Name")}";
-                _log.Info(message);
+                private static readonly ILog _log = LogManager.GetLogger("GuidedLearningLogger");
+                public override void OnSaved(object sender, EntityAfterEventArgs e)
+                {
+                    base.OnSaved(sender, e);
+                    Entity entity = (Entity)sender;
+                    UserConnection userConnection = entity.UserConnection;
+                    
+                    string message = $"Changing name for {entity.GetTypedColumnValue<string>("Name")}";
+                    _log.Info(message);
+                }
             }
         }
-    }
-```
-</details>
+    ```
+  </details>
 - Attach your IDE to w3wp.exe process
 - Build your project / solution and use clio to restart the app
 ```text
