@@ -10,16 +10,21 @@
 - [Convert Creatio to development in FileSystem Mode](https://github.com/kirillkrylov/ImagesAndPages/wiki/Enable-development-in-FileSystem-Mode) 
 - [Configure Clio](https://github.com/Advance-Technologies-Foundation/clio/blob/master/README.md)
 - [Configure NLog](https://github.com/kirillkrylov/ImagesAndPages/wiki/Custom-Logging-with-NLog)\
-- Create Package "Guided Learning"
+- Create Package "GuidedLearning"
 - Convert Package to CLio Project
 - Set first breakpoint and make log entry
+- [Move GuidedLearning package to a cloud environment with Clio](https://github.com/Advance-Technologies-Foundation/clio#installing-package)
 
 ## Set First Break Point
 - Add reference to Common.Logging, you can take necessary files from _**[AppPath]\bin**_ directory.
 - Create new ContactEventListener Class and set a breakpoint anywhere inside onSaved method.
-- Attach to w3wp.exe process
-- Rebuild
+- Attach your IDE to w3wp.exe process
 
+
+
+
+<details>
+  <summary>Create new ContactEventListener Class and set a breakpoint anywhere inside onSaved method.</summary>
 ```C#
 using global::Common.Logging;
 using Terrasoft.Core;
@@ -47,8 +52,9 @@ namespace GuidedLearningClio.Files.cs.el
         }
     }
 }
-
 ```
+</details>
+
 - Build your project / solution and use clio to restart the app
 ```text
 clio restart -e NameOfYourEnvironment
