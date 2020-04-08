@@ -4,7 +4,7 @@ In this course you will learn how to start developing on creatio platform by bui
 
 ## Topics
 <details>
-  <summary>Server Side (C#)</summary>
+  <summary> ## Server Side (C#)</summary>
 
   ## Server Side (C#)
 - [ ] Server side development (C#) - Terrasoft.Configuration
