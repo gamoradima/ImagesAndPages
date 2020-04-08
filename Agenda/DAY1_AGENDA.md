@@ -1,13 +1,19 @@
 [![Logo](https://www.creatio.com/sites/default/files/2019-10/creatio-main-logo.svg)](https://github.com/sindresorhus/awesome#readme)
+
+# Recommended eLearning Modules 
+[Creatio Architecture](https://academy.creatio.com/online-courses/creatio-architecture)
+[Developer Environment Ssetup](https://academy.creatio.com/online-courses/developer-environment-setup)
+[Working With Packages](https://academy.creatio.com/online-courses/working-packages-creatio)
+
+
 # Agenda (Day 1)
 - [Convert Creatio to development in FileSystem Mode](https://github.com/kirillkrylov/ImagesAndPages/wiki/Enable-development-in-FileSystem-Mode) 
-- [Add Custom Repository](https://github.com/kirillkrylov/ImagesAndPages/wiki/Creatio-NuGet-Repository)
 - [Configure Clio](https://github.com/Advance-Technologies-Foundation/clio/blob/master/README.md)
 - [Configure NLog](https://github.com/kirillkrylov/ImagesAndPages/wiki/Custom-Logging-with-NLog)
 - Set first breakpoint and make log entry
 
 ## Set First Break Point
-- Add reference to Common.Logging, you can take necessary files from [AppPath]\bin directory.
+- Add reference to Common.Logging, you can take necessary files from _[AppPath]\bin_ directory.
 - Create EntityNameEventListener Class and set a breakpoint anywhere inside onSaved method.
 ```C#
 using global::Common.Logging;
