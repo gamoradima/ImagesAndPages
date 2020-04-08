@@ -9,7 +9,7 @@
 # Agenda (Day 1)
 - [Convert Creatio to development in FileSystem Mode](https://github.com/kirillkrylov/ImagesAndPages/wiki/Enable-development-in-FileSystem-Mode) 
 - [Configure Clio](https://github.com/Advance-Technologies-Foundation/clio/blob/master/README.md)
-- [Configure NLog](https://github.com/kirillkrylov/ImagesAndPages/wiki/Custom-Logging-with-NLog)\
+- [Configure NLog](https://github.com/kirillkrylov/ImagesAndPages/wiki/Custom-Logging-with-NLog)
 - Create Package "GuidedLearning"
 - Convert Package to CLio Project
 - Set first breakpoint and make log entry
@@ -18,7 +18,7 @@
 ## Set First Break Point
 - Add reference to Common.Logging, you can take necessary files from _**[AppPath]\bin**_ directory.
 - Create new ContactEventListener Class and set a breakpoint anywhere inside onSaved method.
-<details>
+- <details>
   <summary>Create new ContactEventListener Class and set a breakpoint anywhere inside onSaved method.</summary>
 
 ```C#
