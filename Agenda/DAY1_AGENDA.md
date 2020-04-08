@@ -1,11 +1,5 @@
 [![Logo](https://www.creatio.com/sites/default/files/2019-10/creatio-main-logo.svg)](https://github.com/sindresorhus/awesome#readme)
 
-# Recommended eLearning Modules 
-- [Creatio Architecture](https://academy.creatio.com/online-courses/creatio-architecture)
-- [Developer Environment Ssetup](https://academy.creatio.com/online-courses/developer-environment-setup)
-- [Working With Packages](https://academy.creatio.com/online-courses/working-packages-creatio)
-
-
 # Agenda (Day 1)
 - [Convert Creatio to development in FileSystem Mode](https://github.com/kirillkrylov/ImagesAndPages/wiki/Enable-development-in-FileSystem-Mode) 
 - [Configure Clio](https://github.com/Advance-Technologies-Foundation/clio/blob/master/README.md)
@@ -59,3 +53,11 @@
     clio restart -e NameOfYourEnvironment
     ```
   </details>
+
+# Recommended Academy Articles
+- [ENTITY EVENT LAYER](https://academy.creatio.com/documents/technic-sdk/7-15/entity-event-layer)
+
+# Recommended eLearning Modules 
+- [Creatio Architecture](https://academy.creatio.com/online-courses/creatio-architecture)
+- [Developer Environment Ssetup](https://academy.creatio.com/online-courses/developer-environment-setup)
+- [Working With Packages](https://academy.creatio.com/online-courses/working-packages-creatio)
