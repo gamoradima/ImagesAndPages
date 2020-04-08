@@ -85,7 +85,7 @@ In this course you will learn how to start developing on creatio platform by exp
 <a href="https://www.linkedin.com/in/kirill-krylov-cpa/">
     <img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/01-dsk-e8-v2.png.original.png" width="70">
 </a><br />
-<img src="https://github.com/kirillkrylov/ImagesAndPages/blob/master/Img/kirill.jpg" width="70">
+<img src="https://github.com/kirillkrylov/ImagesAndPages/wiki/Img/kirill.jpg" width="70">
 
 ## Prerequisites
 - [Local Instance](https://drive.google.com/drive/folders/1voxaCcUM43_RXcptmFF8GRjxoLb-IP96?usp=sharing)<br/>
