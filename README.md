@@ -4,14 +4,43 @@
 
 ## Topics
 <details>
-  <summary></summary>
-  
+  <summary>Server Side (C#)</summary>
+
   ## Server Side (C#)
   1. A numbered
   2. list
      * With some
      * Sub bullets
 </details>
+
+
+<details>
+  <summary>Client Side (JS)</summary>
+
+  ## Client Side (JS)
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
+
+<details>
+  <summary>Integrations</summary>
+
+  ## Integrations
+  1. DataService
+    * Select
+    * Insert
+    * Update
+    * Batch
+  2. OData 3
+  3. OData 4
+     * With some
+     * Sub bullets
+</details>
+
+
 
 In this course you will learn how to start developing on creatio platform by building a simple Expense Report application.
 - [ ] Create Custom Package (GuidedLearning)
