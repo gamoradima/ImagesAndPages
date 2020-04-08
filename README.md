@@ -30,15 +30,30 @@
 
   ## Integrations
   1. DataService
-    * Select
-    * Insert
-    * Update
-    * Batch
+     * Select
+     * Insert
+     * Update
+     * Batch
   2. OData 3
   3. OData 4
      * With some
      * Sub bullets
 </details>
+
+
+<details>
+  <summary>Other</summary>
+
+  ## Other
+  - [ ] Create Custom Package (GuidedLearning)
+    - [ ] Set dependencies
+    - [ ] Set description
+  - [ ] Build and configure persistent storage for the expense report with Wizards
+    - [ ] ExpenseReport - Root(Section) Table
+    - [ ] ExpenseReportStatus - (1..1)
+    - [ ] ExpenseReportDetails  (1..*)
+</details>
+
 
 
 
