@@ -59,5 +59,5 @@
 
 # Recommended eLearning Modules 
 - [Creatio Architecture](https://academy.creatio.com/online-courses/creatio-architecture)
-- [Developer Environment Ssetup](https://academy.creatio.com/online-courses/developer-environment-setup)
+- [Developer Environment Setup](https://academy.creatio.com/online-courses/developer-environment-setup)
 - [Working With Packages](https://academy.creatio.com/online-courses/working-packages-creatio)
